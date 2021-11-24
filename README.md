@@ -98,3 +98,59 @@ __ __
 * Có đầy đủ các cấu trúc giống như định dạng chuẩn.
 * https://github.com/JamesZBL/java_design_patterns/tree/master/facade (Link repo)
 * https://gpcoder.com/4604-huong-dan-java-design-pattern-facade/ (Link mẫu chuẩn) 
+
+###14. Interpreter:
+* Mẫu thiết kế giống 90%, thiếu mất cấu trúc context.
+* https://github.com/JamesZBL/java_design_patterns/tree/master/interpreter (Link repo)
+* https://gpcoder.com/4702-huong-dan-java-design-pattern-interpreter/ (Link mẫu chuẩn)
+
+###15. Iterator:
+* Mẫu thiết kế giống 100%
+* https://github.com/JamesZBL/java_design_patterns/tree/master/iterator (Link repo)
+* https://gpcoder.com/4724-huong-dan-java-design-pattern-iterator/ (Link mẫu chuẩn)
+
+###16. Mediator:
+* Có đầy đủ cấu trúc giống form chuẩn.
+* Có thêm 1 biến enum.
+* https://github.com/JamesZBL/java_design_patterns/tree/master/mediator (Link repo)
+* https://gpcoder.com/4740-huong-dan-java-design-pattern-mediator/ (Link mẫu chuẩn)
+
+###17. Memento
+* Mẫu thiết kế theo repo đầy đủ cấu trúc originator, caretaker và memento trong đó có thêm 1 loại biến enum
+* https://github.com/JamesZBL/java_design_patterns/tree/master/memento (Link repo)
+* https://gpcoder.com/4763-huong-dan-java-design-pattern-memento/ (Link mẫu chuẩn)
+
+###18. Observer
+* Có đầy đủ các cấ trúc như subject, observer, concreteSubject và concreteObserver, và thêm 1 biến enum.
+* Mẫu thiết kế theo repo đầy đủ cấu trúc originator, caretaker và memento trong đó có thêm 1 loại biến enum.
+* https://github.com/JamesZBL/java_design_patterns/tree/master/memento (Link repo)
+* https://gpcoder.com/4763-huong-dan-java-design-pattern-memento/ (Link mẫu chuẩn)
+
+###19. Proxy
+* Giống cấu trúc gốc 100%
+* https://github.com/JamesZBL/java_design_patterns/tree/master/proxy (Link repo)
+* https://gpcoder.com/4644-huong-dan-java-design-pattern-proxy/ (Link mẫu chuẩn)
+
+###20. Template method
+* Có đầy đủ cấu trúc Abstract Class và 1 concrete  Class
+* Ngoài ra có thêm 1 phương thức của Abstract class và 1 hàm nữa
+* https://github.com/JamesZBL/java_design_patterns/tree/master/template-method (Link repo)
+* https://gpcoder.com/4810-huong-dan-java-design-pattern-template-method/ (Link mẫu chuẩn)
+
+###21. State
+* Có đầy đủ các cấu trúc context, state và concreteState và có thêm hàm main
+* https://github.com/JamesZBL/java_design_patterns/tree/master/state (Link repo)
+* https://gpcoder.com/4785-huong-dan-java-design-pattern-state/ (Link mẫu chuẩn)
+
+###22. Strategy
+* Có đầy đủ các cấu trúc như strategy, 2 concreteStrategy, context và 1 hàm main.
+* https://github.com/JamesZBL/java_design_patterns/tree/master/strategy (Link repo)
+* https://gpcoder.com/4796-huong-dan-java-design-pattern-strategy/ (Link mẫu chuẩn)
+
+###23. Visitor
+* Có đầy đủ các file trong cấu trúc như visitor, concreteVisitor, element và phương thức của elements, objectStructure và client, và 1 hàm để chạy.
+* https://github.com/JamesZBL/java_design_patterns/tree/master/visitor (Link repo)
+* https://gpcoder.com/4813-huong-dan-java-design-pattern-visitor/ (Link mẫu chuẩn)
+
+
+### Kết luận: Repo giống tới 90% so với mẫu chuẩn và chỉ có sự khác biệt nhỏ ở các hàm con.
